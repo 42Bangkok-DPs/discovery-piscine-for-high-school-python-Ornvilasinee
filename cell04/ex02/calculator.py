@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+number1_input=input("Give me the first number: ")
+number2_input=input("Give me the second number: ")
+one=int(number1_input)
+two=int(number2_input)
+print("Thank you!")
+print(one, "+", two, "=", one+two)
+print(one, "-", two, "=", one-two)
+print(one, "/", two, "=", one/two)
+print(one, "*", two, "=", one*two)
